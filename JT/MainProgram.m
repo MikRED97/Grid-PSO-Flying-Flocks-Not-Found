@@ -8,8 +8,8 @@ clear vars % Clear output
 ep = mlep;  % Instantiate co-simulation tool
 
 % Building simulation config file
-ep.idfFile = 'C:\Users\Jacob\Google Drive\Documents\SCHOOL\Smart Grid 6160\Smart Grid Project Group\MATLAB Directory\Project B files from TA\Building_model1min9.idf';
-ep.epwFile = 'C:\Users\Jacob\Google Drive\Documents\SCHOOL\Smart Grid 6160\Smart Grid Project Group\MATLAB Directory\Project B files from TA\USA_SC_Anderson.County.AP.723125_TMY3_1.epw';
+ep.idfFile = 'e+\Building_model1min9.idf';
+ep.epwFile = 'e+\USA_SC_Anderson.County.AP.723125_TMY3_1.epw';
 % ep.idfFile = 'D:\Google Drive\Documents\SCHOOL\Smart Grid 6160\Smart Grid Project Group\MATLAB Directory\Project B files from TA\Building_model1min9.idf';
 % ep.epwFile = 'D:\Google Drive\Documents\SCHOOL\Smart Grid 6160\Smart Grid Project Group\MATLAB Directory\Project B files from TA\USA_SC_Anderson.County.AP.723125_TMY3_1.epw';
 
